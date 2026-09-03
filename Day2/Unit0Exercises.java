@@ -11,9 +11,5 @@ public class Unit0Exercises {
         price = 22.49;
         isPassing = false;
         System.out.println("Score: " + score + " \nPrice: " + price + "\nPassing: " + isPassing);
-
-
-
-        
     }
 }
