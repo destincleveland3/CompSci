@@ -1,4 +1,4 @@
-// package Day3;
+package Day3;
 
 public class ConditionalChallenge {
      public static void main(String[] args) {
