@@ -1,5 +1,3 @@
-// package Day4;
-
 public class ArithmeticExpressions {
      public static void main(String[] args) {
         System.out.println("--- Part 1: Time Breakdown ---");
@@ -11,8 +9,8 @@ public class ArithmeticExpressions {
         System.out.println("Minutes: " + totalMinutes + "\nSeconds: " + remainingSeconds);
 
         System.out.println("--- Part 2: Triangle Calculator ---");
-        double sideA = 6.0;
-        double sideB = 8.0;
+        double sideA = 9.0;
+        double sideB = 12.0;
         double hypotnuse = Math.sqrt(Math.pow(sideA, 2) + Math.pow(sideB, 2));
         double area = sideA * sideB / 2;
         double perimeter = sideA + sideB + hypotnuse;
